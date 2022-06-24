@@ -9,7 +9,7 @@ Choose one of the designs below, and re-create the design to perfection, using C
 
 ## Style guide
 
-Here are 3 designs to choose from, along with suggested fonts and colours to use for your chosen projects:
+<!-- Here are 3 designs to choose from, along with suggested fonts and colours to use for your chosen projects:
 
 ### **DESIGN 1: Prickles & Co**
 **An e-commerce site selling plants**
@@ -30,11 +30,11 @@ Red Brown: #A05941
 Green Black: #133032  
 Light Grey: #EDEDEE  
 White: #FFF  
-Transparent White: rgba(0,0,0,0.75)
+Transparent White: rgba(0,0,0,0.75) -->
 
 =====================================
 
-### **DESIGN 2: Resume**
+<!-- ### **DESIGN 2: Resume**
 **A website to showcase skills and projects**
 
 ![Business resume homepage](./designs/Business%20portfolio.png)
@@ -52,7 +52,7 @@ Dark beige: #E6DACD
 Light beige: #F4ECE6  
 Royal blue: #0150FD  
 Black: #000  
-White: #FFF  
+White: #FFF   -->
 
 =====================================
 
