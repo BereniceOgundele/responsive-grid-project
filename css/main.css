@@ -1,3 +1,35 @@
 /* Add your CSS here */
 
 /* Dont' forget to link this file to your HTML in the <head> */
+* {
+    padding: 0;
+    margin:0 ;
+    box-sizing: border-box;
+}
+.header {
+    background-color: orange;
+}
+li {
+list-style: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.navbar {
+    min-height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 24px;
+}
+
+.nav-menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 40px;
+
+}
